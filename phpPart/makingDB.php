@@ -2,9 +2,9 @@
 header("Access-Control-Allow-Origin: *");
 
 $servername = "localhost";
-$username = "username";
-$password = "password";
-$dbname = "database_name";
+$username = "root"; // XAMPP 기본 사용자 이름
+$password = "";     // XAMPP 기본 비밀번호
+$dbname = "population";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
