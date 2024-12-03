@@ -33,7 +33,7 @@ function showMode(mode){
 
             // 유럽 국가
             {name: "8천4백만", top: "23%", left: "17%", page: "Germany.html"},
-            {name: "1천8백만", top: "24%", left: "16%", page: "Netheralands.html"},
+            {name: "1천8백만", top: "24%", left: "16%", page: "Netherlands.html"},
             {name: "8백9십만", top: "27%", left: "15%", page: "Switzerland.html"},
             {name: "6천9백만", top: "21%", left: "16%", page: "UK.html"},
             {name: "6천6백만", top: "25%", left: "14%", page: "France.html"},

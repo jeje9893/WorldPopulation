@@ -71,10 +71,15 @@ li a{
     border-style: none;
     background-color: transparent;
     cursor: pointer;
-    font-size: 7px;
+    font-size: 8px;
 }
 
 .countryButton:hover {
     background-color: aliceblue;
     box-shadow: 1px 1px 0.5px black;
+    border-radius: 2px;
+}
+
+#chart_div {
+    margin: 150px auto;
 }
